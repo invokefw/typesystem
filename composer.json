@@ -1,0 +1,19 @@
+{
+    "name": "invokefw/typesystem",
+    "description": "Invoke Typesystem package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Davyd Kohut",
+            "email": "davyd.kohut@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Invoke\\Typesystem\\": "src/"
+        }
+    }
+}
